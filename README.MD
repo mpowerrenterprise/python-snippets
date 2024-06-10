@@ -1,4 +1,4 @@
-# PYTHON SNIPPETS
+# Python Snippets
 
 ## Introduction
 
@@ -21,7 +21,7 @@ With its ability to integrate well with other languages and tools, and its compa
 7. [BS4](07-bs4/)
 
 
-# CONTACT
+# Contact
 
 ### Website: 
 
