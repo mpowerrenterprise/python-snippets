@@ -1,4 +1,4 @@
-# Python Snippets
+# PYTHON SNIPPETS
 
 ## Introduction
 
@@ -25,7 +25,7 @@ With its ability to integrate well with other languages and tools, and its compa
 
 ### Website: 
 
-[![Visit](https://img.shields.io/badge/Visit%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](http://www.gunarakulan.info)
+[![Visit](https://img.shields.io/badge/Visit%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](https://www.gunarakulan.info)
 
 ### Social Media:
 
