@@ -1,0 +1,1 @@
+print("Hello World!") # print() method display data on consloe.

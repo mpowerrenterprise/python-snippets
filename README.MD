@@ -12,6 +12,7 @@ With its ability to integrate well with other languages and tools, and its compa
 
 ## Learning Resources
 
+0. [GR Tech Python Fundamentals](0-gr-tech-python-fundamentals/)
 1. [Bucky](01-bucky/)
 2. [MIT](02-mit/)
 3. [PANDA](03-panda/)
